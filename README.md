@@ -1,3 +1,2 @@
-Litecoin.org Web Site
+KingCoin.in Web Site
 
-This is a tiny NodeJS server that resides on top of ExpressJS and EJS.
